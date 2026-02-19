@@ -6,6 +6,9 @@
 ![Status](https://img.shields.io/badge/status-conclu%C3%ADdo-brightgreen?style=flat-square)
 ![GitHub License](https://img.shields.io/github/license/nayarasudariodiniz/fraud-detection-ieee-cis?style=flat-square)
 
+## Contato
+[![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/nayarasudariodiniz)
+
 # Detecção de Fraude em E-commerce - IEEE-CIS
 ---
 

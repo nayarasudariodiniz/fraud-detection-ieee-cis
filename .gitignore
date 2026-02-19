@@ -1,0 +1,26 @@
+# Ambiente Virtual
+.venv/
+env/
+.env
+venv/
+bin/
+obj/
+
+# Dados (Arquivos pesados do Kaggle e CSVs)
+*.csv
+*.zip
+*.joblib
+data/
+
+# Jupyter Notebook
+.ipynb_checkpoints
+*/.ipynb_checkpoints/*
+
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Sistema
+.DS_Store
+Thumbs.db

@@ -1,4 +1,13 @@
+![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
+![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white)
+![Scikit-Learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white)
+![Jupyter Notebook](https://img.shields.io/badge/jupyter-%23FA0F00.svg?style=for-the-badge&logo=jupyter&logoColor=white)
+![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
+![Status](https://img.shields.io/badge/status-conclu%C3%ADdo-brightgreen?style=flat-square)
+![GitHub License](https://img.shields.io/github/license/nayarasudariodiniz/fraud-detection-ieee-cis?style=flat-square)
+![Maintained](https://img.shields.io/badge/Maintained%3F-yes-green.svg?style=flat-square)
 # Detecção de Fraude em E-commerce - IEEE-CIS
+---
 
 Este projeto desenvolve um pipeline de Ciência de Dados para identificar transações fraudulentas em operações de e-commerce. Utilizando o dataset da IEEE Computational Intelligence Society (IEEE-CIS), o trabalho foca na superação dos desafios de dados desbalanceados e na construção de um modelo robusto para suporte à decisão em tempo real.
 

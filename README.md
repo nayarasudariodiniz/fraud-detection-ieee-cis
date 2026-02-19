@@ -5,7 +5,7 @@
 ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
 ![Status](https://img.shields.io/badge/status-conclu%C3%ADdo-brightgreen?style=flat-square)
 ![GitHub License](https://img.shields.io/github/license/nayarasudariodiniz/fraud-detection-ieee-cis?style=flat-square)
-![Maintained](https://img.shields.io/badge/Maintained%3F-yes-green.svg?style=flat-square)
+
 # Detecção de Fraude em E-commerce - IEEE-CIS
 ---
 
